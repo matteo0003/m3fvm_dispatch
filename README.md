@@ -1,11 +1,13 @@
 [![MIT License][license-shield]][license-url]
 
-<a href="https://github.com/matteo0003/m3fvm_dispatch">
-    <img src="https://i.imgur.com/juxNDYR.jpeg" alt="Logo">
-</a>
-
-<h1>m3fvm_dispatch</h1>
-<p>A basic standalone script to stop default services dispatch</p>
+<div align="center">
+    <a href="https://github.com/matteo0003/m3fvm_dispatch">
+        <img src="https://i.imgur.com/juxNDYR.jpeg" alt="Logo">
+    </a>
+    
+    <h1>m3fvm_dispatch</h1>
+    <p>A basic standalone script to stop default services dispatch</p>
+</div>
 
 ### Installation
 
