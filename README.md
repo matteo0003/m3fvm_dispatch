@@ -31,7 +31,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 <a href="mailto:matteo.angoin@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 [license-shield]: https://img.shields.io/github/license/matteo0003/m3fvm_dispatch.svg?style=for-the-badge
 [license-url]: https://github.com/matteo0003/m3fvm_dispatch/blob/master/LICENSE.txt
