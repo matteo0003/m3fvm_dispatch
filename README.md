@@ -8,7 +8,7 @@
 
 <div align="center">
     <h1>m3fvm_dispatch</h1>
-    <p>A basic standalone script to stop default services dispatch</p>
+    <p>A basic standalone script to stop default services dispatch.</p>
 </div>
 
 ### Installation:
