@@ -1,5 +1,5 @@
 Citizen.CreateThread(function()
-	local player<const> = PlayerId()
+	local player <const> = PlayerId()
 
 	while true do
 		Citizen.Wait(0)
